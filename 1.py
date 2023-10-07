@@ -1,0 +1,1 @@
+print ('abef'.partition('cd'))
